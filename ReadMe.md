@@ -6,7 +6,7 @@ Project ini dibuat dalam rangka menganalisa apakah automation test project favor
 mari kita coba bahas
 
 project ini dilengkapi penjelasan yg cukup detail dan singkat :D,
-silahkan klik link berikut untuk memulai
+silahkan klik [link berikut](DearUser.md). untuk memulai
 
 
 ## How To Install
