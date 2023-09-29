@@ -1,0 +1,14 @@
+{
+  "name": "cypress12 upgrade 13",
+  "version": "1.0.0",
+  "description": "Cypress 13 for Test",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  },
+  "dependencies": {
+  }
+}
