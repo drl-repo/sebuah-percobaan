@@ -107,7 +107,7 @@ dan __beforeEach()__, maka disini saya akan melakukan 2 percobaan/2 scenario.
 Terlebih dahulu kita akan menambahkan beberapa code agar kode automation diatas sesuai dengan test scenario pada favorite movie kemarin.
 
 ```
-describe('Menggunakan command login pada before hook saja', function(){
+describe('Scenario sederhana sesuai favorite movie', function(){
 	
 	let username = Cypress.env('username')
 	let password = Cypress.env('password')
